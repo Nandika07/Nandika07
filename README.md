@@ -4,7 +4,7 @@
 - 🌱 Hobbies: Painting, baking and reading 
   
 Intro to project
-Asteroid destroyer!! - a new take on the game space invaders
+Asteroid destroyer!! - a new take on the game space invaders.
 My game would involve players control a spaceship navigating through an asteroid field. The objective is to avoid collisions with asteroids 
 while scoring points by destroying them. The game challenges players to survive as long as possible. 
 This is being built by using object-oriented programming principles, it will showcase collision detection, realisticish physics, and hopefully 
